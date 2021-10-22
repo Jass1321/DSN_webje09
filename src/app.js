@@ -6,7 +6,7 @@ const exphbs = require('express-handlebars');
 const {allowInsecurePrototypeAccess} = require('@handlebars/allow-prototype-access');
 const Handlebars = require('handlebars');
 
-//Initializarions
+//Initializtions
 const app = express();
 require('./database');
 
